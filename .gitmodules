@@ -1,0 +1,3 @@
+[submodule "00_libft"]
+	path = 00_libft
+	url = https://github.com/r-fsantos/libft 
