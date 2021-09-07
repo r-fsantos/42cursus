@@ -4,7 +4,4 @@
 [submodule "01_get_next_line"]
 	path = 01_get_next_line
 	url = https://github.com/r-fsantos/01_get_next_line.git
-[submodule "02_ft_printf"]
-	path = 02_ft_printf
-	url = https://github.com/r-fsantos/02_ft_printf.git
-
+	
