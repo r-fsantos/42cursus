@@ -1,8 +1,5 @@
 .DS_Store   
 .git 
-00_libft
-01_get_next_line
-02_ft_printf
 eval        
 venv_42
 tests/
