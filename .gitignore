@@ -1,7 +1,6 @@
 .DS_Store   
 .git 
 00_libft
-01_gnl   
 02_ft_printf
 eval        
 venv_42
