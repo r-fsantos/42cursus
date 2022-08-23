@@ -3,3 +3,5 @@
 eval        
 venv_42
 tests/
+aws/
+mlx/
