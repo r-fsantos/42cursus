@@ -4,3 +4,6 @@
 [submodule "01_get_next_line"]
 	path = 01_get_next_line
 	url = https://github.com/r-fsantos/01_get_next_line 
+[submodule "04_fractol/fractol"]
+	path = 04_fractol/fractol
+	url = https://github.com/r-fsantos/fractol.git
