@@ -7,3 +7,9 @@
 [submodule "04_fractol/fractol"]
 	path = 04_fractol/fractol
 	url = https://github.com/r-fsantos/fractol.git
+[submodule "05_ft_pipex/pipex"]
+	path = 05_ft_pipex/pipex
+	url = https://github.com/r-fsantos/pipex
+[submodule "05_ft_pipex"]
+	path = 05_ft_pipex
+	url = https://github.com/r-fsantos/ft_pipex.git
